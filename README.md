@@ -35,5 +35,36 @@
 28. **Tell us the difference between seal and freeze?**
 29. **Tell us the difference between for...of and for...in?**
 
-Feel free to use this expanded list to prepare for your JavaScript interview, especially focusing on the ES6-related questions to stay updated with modern JavaScript development practices.
+
+## জেনারেল জাভাস্ক্রিপ্ট
+
+১. **জাভাস্ক্রিপ্টে কোন কোন ধরনের ডাটা টাইপের ভেরিয়েবল আছে?**
+২. **জাভাস্ক্রিপ্টে ফাংশন এবং Array কী ধরনের জিনিস?**
+৩. **জাভাস্ক্রিপ্টে যদি Array অবজেক্ট হয় তাহলে কীভাবে চেক করবে কোন একটা ভেরিয়েবল একটা Array নাকি Array না?**
+৪. **Undefined এবং Null এর মধ্যে ডিফারেন্স কী?**
+৫. **Double Equal (==) এবং Triple Equal (===) এই দুটির মধ্যে ডিফারেন্স কী?**
+৬. **Implicit Conversion কী জিনিস? এটা কখন হয়?**
+৭. **জাভাস্ক্রিপ্টে কয়েক ধরনের স্কোপ আছে। এই স্কোপগুলার মধ্যে ডিফারেন্স কী? কোনটা কোন অবস্থায় হয়?**
+৮. **ব্লক স্কোপ কী জিনিস? Let এবং Const কোন ধরনের স্কোপ তৈরি করে?**
+
+## ES6 সম্পর্কিত
+
+৯. **ES6 কী? আপনি কি কোনও কিছু ES6 থেকে ব্যবহার করেছেন?**
+১০. **বর্তমানে জাভাস্ক্রিপ্ট কখন let, const ব্যবহার করবেন এবং কেন?**
+১১. **Arrow function কী? এটি কীভাবে তৈরি করা যায়?**
+১২. **Arrow function এর উপকারিতা কী? একটি ES6 উদাহরণ দিন।**
+১৩. **Spread অপারেটর নিয়ে আলোচনা করুন এবং এর উদাহরণ দিন।**
+১৪. **ডিফল্ট প্যারামিটার সম্পর্কে কি জানেন?**
+১৫. **Template literals কী?**
+১৬. **Arrow ফাংশন এবং রেগুলার ফাংশনের মধ্যে পার্থক্য কী?**
+১৭. **Seal এবং Freeze এর মধ্যে পার্থক্য কী?**
+১৮. **for...of এবং for...in এর মধ্যে পার্থক্য কী?**
+
+## অ্যাডভান্সড
+
+১৯. **ক্লোজার কী? এটি কিভাবে কাজ করে?**
+২০. **Callback function কী?**
+২১. **Hoisting কী?**
+২২. **কোন ধরনের ভেরিয়েবল reference দিয়ে ফাংশনে পাঠানো হয় এবং কোন ধরনের ভেরিয়েবল value হিসেবে পাঠানো হয়?**
+
 
