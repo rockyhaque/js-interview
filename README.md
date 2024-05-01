@@ -1,6 +1,3 @@
-# js-interview
-
-
 # JavaScript Interview Questions
 
 ## General JavaScript
