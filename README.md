@@ -1,6 +1,6 @@
 # JavaScript Interview Questions
 
-## General JavaScript
+## General JavaScript I
 
 1. **Difference between map, forEach, and filter?**
 2. **Difference between filter and find?**
@@ -22,7 +22,7 @@
 18. **Explain closure in JavaScript?**
 19. **Explain pass by value and pass by reference?**
 
-## ES6 Related
+## ES6 Related I
 
 20. **What is ES6? Have you ever used anything from ES6?**
 21. **Explain the difference between var, let, and const?**
@@ -36,35 +36,36 @@
 29. **Tell us the difference between for...of and for...in?**
 
 
-## জেনারেল জাভাস্ক্রিপ্ট
+## General JavaScript II
 
-১. **জাভাস্ক্রিপ্টে কোন কোন ধরনের ডাটা টাইপের ভেরিয়েবল আছে?**
-২. **জাভাস্ক্রিপ্টে ফাংশন এবং Array কী ধরনের জিনিস?**
-৩. **জাভাস্ক্রিপ্টে যদি Array অবজেক্ট হয় তাহলে কীভাবে চেক করবে কোন একটা ভেরিয়েবল একটা Array নাকি Array না?**
-৪. **Undefined এবং Null এর মধ্যে ডিফারেন্স কী?**
-৫. **Double Equal (==) এবং Triple Equal (===) এই দুটির মধ্যে ডিফারেন্স কী?**
-৬. **Implicit Conversion কী জিনিস? এটা কখন হয়?**
-৭. **জাভাস্ক্রিপ্টে কয়েক ধরনের স্কোপ আছে। এই স্কোপগুলার মধ্যে ডিফারেন্স কী? কোনটা কোন অবস্থায় হয়?**
-৮. **ব্লক স্কোপ কী জিনিস? Let এবং Const কোন ধরনের স্কোপ তৈরি করে?**
+1. **What are the different types of data types in JavaScript variables?**
+2. **What type of thing is a function or array in JavaScript?**
+3. **If an Array becomes an object in JavaScript, how do you check if a variable is an Array or not?**
+4. **What is the difference between Undefined and Null?**
+5. **What is the difference between Double Equal (==) and Triple Equal (===)?**
+6. **What is Implicit Conversion? When does it happen?**
+7. **Besides, JavaScript has several types of scopes. What is the difference between these scopes? When does each occur?**
+8. **What is Block Scope? What type of scope does Let and Const create?**
 
-## ES6 সম্পর্কিত
+## ES6 Related II
 
-৯. **ES6 কী? আপনি কি কোনও কিছু ES6 থেকে ব্যবহার করেছেন?**
-১০. **বর্তমানে জাভাস্ক্রিপ্ট কখন let, const ব্যবহার করবেন এবং কেন?**
-১১. **Arrow function কী? এটি কীভাবে তৈরি করা যায়?**
-১২. **Arrow function এর উপকারিতা কী? একটি ES6 উদাহরণ দিন।**
-১৩. **Spread অপারেটর নিয়ে আলোচনা করুন এবং এর উদাহরণ দিন।**
-১৪. **ডিফল্ট প্যারামিটার সম্পর্কে কি জানেন?**
-১৫. **Template literals কী?**
-১৬. **Arrow ফাংশন এবং রেগুলার ফাংশনের মধ্যে পার্থক্য কী?**
-১৭. **Seal এবং Freeze এর মধ্যে পার্থক্য কী?**
-১৮. **for...of এবং for...in এর মধ্যে পার্থক্য কী?**
+9. **What is ES6? Have you ever used anything from ES6?**
+10. **Currently, when should you use let and const in JavaScript and why?**
+11. **What is an Arrow function? How can it be created?**
+12. **What are the advantages of Arrow functions? Provide an ES6 example.**
+13. **Discuss the Spread operator and provide an example.**
+14. **What do you know about Default parameters?**
+15. **What are Template literals?**
+16. **What is the difference between Arrow functions and regular functions?**
+17. **What is the difference between Seal and Freeze?**
+18. **What is the difference between for...of and for...in loops?**
 
-## অ্যাডভান্সড
+## Advanced
 
-১৯. **ক্লোজার কী? এটি কিভাবে কাজ করে?**
-২০. **Callback function কী?**
-২১. **Hoisting কী?**
-২২. **কোন ধরনের ভেরিয়েবল reference দিয়ে ফাংশনে পাঠানো হয় এবং কোন ধরনের ভেরিয়েবল value হিসেবে পাঠানো হয়?**
+19. **What is Closure? How does it work?**
+20. **What is a Callback function?**
+21. **What is Hoisting?**
+22. **Which type of variable is passed to a function by reference and which type is passed as a value?**
+
 
 
