@@ -3,7 +3,7 @@
 
 # JavaScript Interview Questions
 
-Here are some common JavaScript interview questions to help you prepare for your next interview:
+## General JavaScript
 
 1. **Difference between map, forEach, and filter?**
 2. **Difference between filter and find?**
@@ -25,4 +25,18 @@ Here are some common JavaScript interview questions to help you prepare for your
 18. **Explain closure in JavaScript?**
 19. **Explain pass by value and pass by reference?**
 
-Feel free to use this list to brush up on your JavaScript knowledge and ace your next interview!
+## ES6 Related
+
+20. **What is ES6? Have you ever used anything from ES6?**
+21. **Explain the difference between var, let, and const?**
+22. **What is an arrow function, and how do you create it?**
+23. **Give an example of an Arrow function in ES6? List down its advantages?**
+24. **Discuss the spread operator in ES6 with an example?**
+25. **What do you understand about default parameters in ES6?**
+26. **What are template literals in ES6?**
+27. **Tell us the difference between an arrow and a regular function?**
+28. **Tell us the difference between seal and freeze?**
+29. **Tell us the difference between for...of and for...in?**
+
+Feel free to use this expanded list to prepare for your JavaScript interview, especially focusing on the ES6-related questions to stay updated with modern JavaScript development practices.
+
